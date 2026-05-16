@@ -1,0 +1,11 @@
+{
+  "style": "cross",
+  "color": "#00ff00",
+  "size": 24,
+  "thickness": 2,
+  "gap": 6,
+  "dot": true,
+  "opacity": 0.9,
+  "follow_mouse": true,
+  "poll_ms": 8
+}
